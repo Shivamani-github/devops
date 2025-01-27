@@ -1,0 +1,2 @@
+# devops
+Setting up git
